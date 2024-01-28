@@ -1,0 +1,25 @@
+body {
+    background: teal;
+}
+
+.container {
+    height: 300px;
+    position: relative;
+    font-size: 25px;
+}
+
+h1,
+div {
+    text-align: center;
+}
+
+.center-btn {
+    border: 3px solid rgb(109, 4, 109);
+    border-radius: 10%;
+    background: plum;
+    margin: 32px 47%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+}
